@@ -9,5 +9,5 @@ keep_vars = true
 [vars]
 #UUID = ""
 
-PROXYIP = "www.gco.gov.qa.cdn.cloudflare.net"
+PROXYIP = "www.gco.gov.qa"
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
