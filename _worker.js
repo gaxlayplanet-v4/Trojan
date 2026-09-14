@@ -8,7 +8,7 @@ import { connect } from "cloudflare:sockets";
 // ==================== CONFIGURATION ====================
 let userID = "";
 let trojanPassword = "";
-let proxyIP = "www.gco.gov.qa.cdn.cloudflare.net";
+let proxyIP = "www.gco.gov.qa";
 let dohURL = "https://cloudflare-dns.com/dns-query";
 
 // Cloudflare supported ports
